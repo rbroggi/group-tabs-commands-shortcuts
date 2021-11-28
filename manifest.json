@@ -6,9 +6,18 @@
     "service_worker": "background.js"
   },
   "commands": {
-    "inject-script": {
-      "suggested_key": "Alt+T",
-      "description": "Inject a script on the page"
+    "new-tab-in-group": {
+      "description": "Creates new tab in current tab group"
+    },
+    "collapse-all-groups": {
+      "description": "Collapse all groups"
+    },
+    "expand-all-groups": {
+      "description": "Expand all groups"
     }
-  }
+  },
+  "permissions": [
+    "tabs",
+    "tabGroups"
+  ]
 }
