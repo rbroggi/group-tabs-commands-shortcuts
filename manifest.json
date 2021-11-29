@@ -1,7 +1,7 @@
 {
   "name": "Groups Tabs Commands Shortcuts",
   "version": "0.1",
-  "description": "A curated list of group-tab useful commands to be bind to shortcuts in your browser",
+  "description": "A list of groups-tabs commands to be bind to shortcuts",
   "manifest_version": 3,
   "icons": {
     "128": "assets/icon-128.png",
